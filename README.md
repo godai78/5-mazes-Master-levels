@@ -1,6 +1,10 @@
-# 5-Mazes
-The Game Boy "5 mazes".
+# 5 Mazes: Master levels
  
- Roam the mazes with Alice! Each one is more and more difficult.
+Roam the mazes with Alice! Sequel to tha acclaimed "5 mazes" and "5 more mazes" Game Boy games. Now larger and harder than ever in this ultimate release!
  
-![5_mazes](https://user-images.githubusercontent.com/68123541/222948982-f696f281-0763-459c-89ea-9a6d3a5d9dd1.jpg)
+## Credits:
+
+* Game idea and GB Studio magic: godai.
+* Mazes generated with maze generating algorithm by Keesie Meijer.
+* Music tracks by AJ Booker.
+
